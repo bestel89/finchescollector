@@ -1,0 +1,132 @@
+[
+{
+  "model": "main_app.finch",
+  "pk": 2,
+  "fields": {
+    "species": "Zebra Finch",
+    "color": "Gray",
+    "size": "Small",
+    "habitat": "Australia",
+    "diet": "Seeds",
+    "lifespan": 5,
+    "population": "Common"
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 3,
+  "fields": {
+    "species": "Goldfinch",
+    "color": "Yellow",
+    "size": "Small",
+    "habitat": "North America",
+    "diet": "Seeds, Insects",
+    "lifespan": 10,
+    "population": "Stable"
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 4,
+  "fields": {
+    "species": "Gouldian Finch",
+    "color": "Red, Green, Yellow",
+    "size": "Small",
+    "habitat": "Australia",
+    "diet": "Seeds, Insects",
+    "lifespan": 6,
+    "population": "Endangered"
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 5,
+  "fields": {
+    "species": "Purple Finch",
+    "color": "Red, Brown",
+    "size": "Medium",
+    "habitat": "North America",
+    "diet": "Seeds, Insects",
+    "lifespan": 7,
+    "population": "Stable"
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 6,
+  "fields": {
+    "species": "Society Finch",
+    "color": "White, Brown",
+    "size": "Small",
+    "habitat": "Domesticated",
+    "diet": "Seeds, Pellets",
+    "lifespan": 7,
+    "population": "Common"
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 7,
+  "fields": {
+    "species": "Crimson Finch",
+    "color": "Red",
+    "size": "Small",
+    "habitat": "Australia",
+    "diet": "Seeds, Insects",
+    "lifespan": 6,
+    "population": "Stable"
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 8,
+  "fields": {
+    "species": "European Goldfinch",
+    "color": "Red, Black, White",
+    "size": "Small",
+    "habitat": "Europe, Asia, Africa",
+    "diet": "Seeds, Insects",
+    "lifespan": 12,
+    "population": "Stable"
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 9,
+  "fields": {
+    "species": "Java Sparrow",
+    "color": "Gray",
+    "size": "Small",
+    "habitat": "Indonesia",
+    "diet": "Seeds",
+    "lifespan": 7,
+    "population": "Endangered"
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 10,
+  "fields": {
+    "species": "Bengalese Finch",
+    "color": "White, Brown",
+    "size": "Small",
+    "habitat": "Domesticated",
+    "diet": "Seeds, Insects",
+    "lifespan": 6,
+    "population": "Common"
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 11,
+  "fields": {
+    "species": "Red-cheeked Cordon-bleu",
+    "color": "Blue, Red",
+    "size": "Small",
+    "habitat": "Sub-Saharan Africa",
+    "diet": "Seeds, Insects",
+    "lifespan": 5,
+    "population": "Stable"
+  }
+}
+]
